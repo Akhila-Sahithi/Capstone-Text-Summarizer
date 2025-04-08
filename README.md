@@ -118,8 +118,3 @@ Frontend: React, Tailwind CSS, shadcn/ui
 Backend: Python, Flask, Transformers
 
 Model: allenai/led-base-16384 (for long documents)
-
-
-👩‍💻 Author
-Akhila Sahithi
-B.Tech CSE (Big Data Analytics)
