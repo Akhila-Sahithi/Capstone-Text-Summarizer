@@ -1,0 +1,28 @@
+# macOS system files
+.DS_Store
+
+# RStudio history
+.Rhistory
+
+# Node modules (React frontend)
+research-summarizer-ui/node_modules/
+research-summarizer-ui/.next/
+research-summarizer-ui/.turbo/
+research-summarizer-ui/.env.local
+
+# Python files and environments (backend)
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.env
+research-summarizer-backend/__pycache__/
+research-summarizer-backend/venv/
+research-summarizer-backend/.env
+
+# VSCode settings (optional)
+.vscode/
+
+# Logs
+*.log
+
