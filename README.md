@@ -1,7 +1,9 @@
 # Research Paper Summarizer
 
 ## Overview
-A full-stack web application that allows users to **browse topics**, **view research papers**, and **generate AI-powered summaries** using state-of-the-art NLP models (LED, T5, BART).
+Research Summarizer is an AI-powered full-stack web application that enables users to summarize complete research papers based on a given topic. It fetches papers from arXiv, downloads the entire paper content, and uses advanced transformer models like BART and LED to generate concise, high-quality summaries.
+
+Built with a React + Tailwind CSS frontend and a FastAPI backend, the app provides a seamless experience for anyone looking to digest complex research faster.
 
 ![Research Summarizer Demo](./demo-video.gif)
 
