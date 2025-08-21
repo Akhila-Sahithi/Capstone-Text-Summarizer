@@ -3,7 +3,8 @@
 ## 📌 Overview
 A full-stack web application that allows users to **browse topics**, **view research papers**, and **generate AI-powered summaries** using state-of-the-art NLP models (LED, T5, BART).
 
-![Research Summarizer Demo](./docs/demo.gif)
+![Research Summarizer Demo](./demo-video.gif)
+
 
 ## 🚀 Features
 - Topic-based paper exploration  
